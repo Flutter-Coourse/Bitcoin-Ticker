@@ -1,4 +1,4 @@
-# bitcoin_ticker
+# Bitcoin_Ticker
 
 Cupertino and Material Widgets
 
